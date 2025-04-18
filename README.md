@@ -1,2 +1,2 @@
 # creat  
-we are goingto creat a new file into a git
+we are goingto creat a new file into a gituhh.
